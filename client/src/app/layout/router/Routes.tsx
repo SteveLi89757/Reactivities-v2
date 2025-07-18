@@ -7,7 +7,7 @@ import ActivityDetailPage from "../../../features/activities/details/ActivityDet
 import Counter from "../../../features/counter/Counter";
 import TestErrors from "../../../features/errors/TestErrors";
 import NotFound from "../../../features/errors/NotFound";
-import ServerError from "../../../features/errors/serverError";
+import ServerError from "../../../features/errors/ServerError";
 
 export const router = createBrowserRouter([
   {
