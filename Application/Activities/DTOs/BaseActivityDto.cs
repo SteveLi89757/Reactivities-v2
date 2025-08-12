@@ -2,7 +2,7 @@ using System;
 
 namespace Application.Activities.DTOs;
 
-public class BaseActivityAto
+public class BaseActivityDto
 {
     public string Title { get; set; } = "";
 
